@@ -1,1 +1,2 @@
 "Hello from Namkung" 
+"Goodbye from Namkung" 
